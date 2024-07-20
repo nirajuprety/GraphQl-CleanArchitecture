@@ -1,0 +1,14 @@
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\PizzaOrder.Domain.csproj.AssemblyReference.cache
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\PizzaOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\PizzaOrder.Domain.AssemblyInfoInputs.cache
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\PizzaOrder.Domain.AssemblyInfo.cs
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\PizzaOrder.Domain.csproj.CoreCompileInputs.cache
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\bin\Debug\net8.0\PizzaOrder.Domain.deps.json
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\bin\Debug\net8.0\PizzaOrder.Domain.runtimeconfig.json
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\bin\Debug\net8.0\PizzaOrder.Domain.dll
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\bin\Debug\net8.0\PizzaOrder.Domain.pdb
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\PizzaOrder.Domain.dll
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\refint\PizzaOrder.Domain.dll
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\PizzaOrder.Domain.pdb
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\PizzaOrder.Domain.genruntimeconfig.cache
+D:\GraphQL\PizzaOrder\PizzaOrder.Data\obj\Debug\net8.0\ref\PizzaOrder.Domain.dll

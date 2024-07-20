@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GraphQL\\PizzaOrder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94AE4B15-1E6E-43CD-8354-456F27130904}|PizzaOrder.API\\PizzaOrder.API.csproj|d:\\graphql\\pizzaorder\\pizzaorder.api\\configurationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AE4B15-1E6E-43CD-8354-456F27130904}|PizzaOrder.API\\PizzaOrder.API.csproj|solutionrelative:pizzaorder.api\\configurationserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|d:\\graphql\\pizzaorder\\pizzaorder.application\\services\\implementation\\pizzadetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|solutionrelative:pizzaorder.application\\services\\implementation\\pizzadetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|d:\\graphql\\pizzaorder\\pizzaorder.application\\services\\interface\\ipizzadetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|solutionrelative:pizzaorder.application\\services\\interface\\ipizzadetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|d:\\graphql\\pizzaorder\\pizzaorder.application\\services\\implementation\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|solutionrelative:pizzaorder.application\\services\\implementation\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|d:\\graphql\\pizzaorder\\pizzaorder.application\\services\\interface\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|solutionrelative:pizzaorder.application\\services\\interface\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4F4211-E50D-4DB8-B4C7-6ED0C6128CAB}|PizzaOrder.GrapghQlModels\\PizzaOrder.GrapghQlModels.csproj|d:\\graphql\\pizzaorder\\pizzaorder.grapghqlmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4F4211-E50D-4DB8-B4C7-6ED0C6128CAB}|PizzaOrder.GrapghQlModels\\PizzaOrder.GrapghQlModels.csproj|solutionrelative:pizzaorder.grapghqlmodels\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|d:\\graphql\\pizzaorder\\pizzaorder.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B94E0E3-0AD0-4CA3-892A-6A64B43731B7}|PizzaOrder.Application\\PizzaOrder.Application.csproj|solutionrelative:pizzaorder.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Migrations\\20240720162047_Entities_Added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PizzaOrder.Data\\Migrations\\20240720162047_Entities_Added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|d:\\graphql\\pizzaorder\\pizzaorder.data\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|solutionrelative:pizzaorder.data\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AE4B15-1E6E-43CD-8354-456F27130904}|PizzaOrder.API\\PizzaOrder.API.csproj|d:\\graphql\\pizzaorder\\pizzaorder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AE4B15-1E6E-43CD-8354-456F27130904}|PizzaOrder.API\\PizzaOrder.API.csproj|solutionrelative:pizzaorder.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|d:\\graphql\\pizzaorder\\pizzaorder.data\\data\\pizzadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|solutionrelative:pizzaorder.data\\data\\pizzadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AE4B15-1E6E-43CD-8354-456F27130904}|PizzaOrder.API\\PizzaOrder.API.csproj|d:\\graphql\\pizzaorder\\pizzaorder.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94AE4B15-1E6E-43CD-8354-456F27130904}|PizzaOrder.API\\PizzaOrder.API.csproj|solutionrelative:pizzaorder.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|d:\\graphql\\pizzaorder\\pizzaorder.data\\entities\\epizzadetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|solutionrelative:pizzaorder.data\\entities\\epizzadetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|d:\\graphql\\pizzaorder\\pizzaorder.data\\entities\\eorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|solutionrelative:pizzaorder.data\\entities\\eorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|d:\\graphql\\pizzaorder\\pizzaorder.data\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|solutionrelative:pizzaorder.data\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|d:\\graphql\\pizzaorder\\pizzaorder.data\\enum\\toppings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF710CE-27D2-42B2-BB61-29599ACA1CDF}|PizzaOrder.Data\\PizzaOrder.Domain.csproj|solutionrelative:pizzaorder.data\\enum\\toppings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigurationServiceExtension.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.API\\ConfigurationServiceExtension.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.API\\ConfigurationServiceExtension.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.API\\ConfigurationServiceExtension.cs",
+              "RelativeToolTip": "PizzaOrder.API\\ConfigurationServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:17:37.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPizzaDetailService.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Services\\Interface\\IPizzaDetailService.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Application\\Services\\Interface\\IPizzaDetailService.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Services\\Interface\\IPizzaDetailService.cs",
+              "RelativeToolTip": "PizzaOrder.Application\\Services\\Interface\\IPizzaDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:15:27.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaDetailService.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Services\\Implementation\\PizzaDetailService.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Application\\Services\\Implementation\\PizzaDetailService.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Services\\Implementation\\PizzaDetailService.cs",
+              "RelativeToolTip": "PizzaOrder.Application\\Services\\Implementation\\PizzaDetailService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:15:16.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Services\\Interface\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Application\\Services\\Interface\\IOrderDetailService.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Services\\Interface\\IOrderDetailService.cs",
+              "RelativeToolTip": "PizzaOrder.Application\\Services\\Interface\\IOrderDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:13:32.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Services\\Implementation\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Application\\Services\\Implementation\\OrderDetailService.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Services\\Implementation\\OrderDetailService.cs",
+              "RelativeToolTip": "PizzaOrder.Application\\Services\\Implementation\\OrderDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:12:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.GrapghQlModels\\Class1.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.GrapghQlModels\\Class1.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.GrapghQlModels\\Class1.cs",
+              "RelativeToolTip": "PizzaOrder.GrapghQlModels\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:09:26.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Application\\Class1.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Application\\Class1.cs",
+              "RelativeToolTip": "PizzaOrder.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T17:08:57.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240720162047_Entities_Added.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Migrations\\20240720162047_Entities_Added.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Data\\Migrations\\20240720162047_Entities_Added.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Migrations\\20240720162047_Entities_Added.cs",
+              "RelativeToolTip": "PizzaOrder.Data\\Migrations\\20240720162047_Entities_Added.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:20:47.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.API\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.API\\Program.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.API\\Program.cs",
+              "RelativeToolTip": "PizzaOrder.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T16:06:25.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzaOrder.API\\appsettings.json",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.API\\appsettings.json",
+              "RelativeToolTip": "PizzaOrder.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T16:04:23.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Data\\Data\\DataSeeder.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "PizzaOrder.Data\\Data\\DataSeeder.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:45:53.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EPizzaDetails.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Entities\\EPizzaDetails.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Data\\Entities\\EPizzaDetails.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Entities\\EPizzaDetails.cs",
+              "RelativeToolTip": "PizzaOrder.Data\\Entities\\EPizzaDetails.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:38:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EOrderDetails.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Entities\\EOrderDetails.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Data\\Entities\\EOrderDetails.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Entities\\EOrderDetails.cs",
+              "RelativeToolTip": "PizzaOrder.Data\\Entities\\EOrderDetails.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:37:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PizzaDBContext.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Data\\PizzaDBContext.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Data\\Data\\PizzaDBContext.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Data\\PizzaDBContext.cs",
+              "RelativeToolTip": "PizzaOrder.Data\\Data\\PizzaDBContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:28:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Data\\Enum\\OrderStatus.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "PizzaOrder.Data\\Enum\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:32:58.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Toppings.cs",
+              "DocumentMoniker": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Enum\\Toppings.cs",
+              "RelativeDocumentMoniker": "PizzaOrder.Data\\Enum\\Toppings.cs",
+              "ToolTip": "D:\\GraphQL\\PizzaOrder\\PizzaOrder.Data\\Enum\\Toppings.cs",
+              "RelativeToolTip": "PizzaOrder.Data\\Enum\\Toppings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:35:17.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1354,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
